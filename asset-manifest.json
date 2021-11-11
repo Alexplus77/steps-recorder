@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/steps-recorder/static/css/main.1ec56480.chunk.css",
-    "main.js": "/steps-recorder/static/js/main.de750af9.chunk.js",
-    "main.js.map": "/steps-recorder/static/js/main.de750af9.chunk.js.map",
+    "main.js": "/steps-recorder/static/js/main.f76a78f8.chunk.js",
+    "main.js.map": "/steps-recorder/static/js/main.f76a78f8.chunk.js.map",
     "runtime-main.js": "/steps-recorder/static/js/runtime-main.fe779d5f.js",
     "runtime-main.js.map": "/steps-recorder/static/js/runtime-main.fe779d5f.js.map",
-    "static/js/2.b26c816f.chunk.js": "/steps-recorder/static/js/2.b26c816f.chunk.js",
-    "static/js/2.b26c816f.chunk.js.map": "/steps-recorder/static/js/2.b26c816f.chunk.js.map",
+    "static/js/2.e5b3cefb.chunk.js": "/steps-recorder/static/js/2.e5b3cefb.chunk.js",
+    "static/js/2.e5b3cefb.chunk.js.map": "/steps-recorder/static/js/2.e5b3cefb.chunk.js.map",
     "index.html": "/steps-recorder/index.html",
     "static/css/main.1ec56480.chunk.css.map": "/steps-recorder/static/css/main.1ec56480.chunk.css.map",
-    "static/js/2.b26c816f.chunk.js.LICENSE.txt": "/steps-recorder/static/js/2.b26c816f.chunk.js.LICENSE.txt"
+    "static/js/2.e5b3cefb.chunk.js.LICENSE.txt": "/steps-recorder/static/js/2.e5b3cefb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fe779d5f.js",
-    "static/js/2.b26c816f.chunk.js",
+    "static/js/2.e5b3cefb.chunk.js",
     "static/css/main.1ec56480.chunk.css",
-    "static/js/main.de750af9.chunk.js"
+    "static/js/main.f76a78f8.chunk.js"
   ]
 }
