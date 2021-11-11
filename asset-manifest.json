@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/steps-recorder/static/css/main.df6fc5e0.chunk.css",
-    "main.js": "/steps-recorder/static/js/main.39045eb4.chunk.js",
-    "main.js.map": "/steps-recorder/static/js/main.39045eb4.chunk.js.map",
+    "main.js": "/steps-recorder/static/js/main.afa684eb.chunk.js",
+    "main.js.map": "/steps-recorder/static/js/main.afa684eb.chunk.js.map",
     "runtime-main.js": "/steps-recorder/static/js/runtime-main.fe779d5f.js",
     "runtime-main.js.map": "/steps-recorder/static/js/runtime-main.fe779d5f.js.map",
     "static/js/2.20a06d52.chunk.js": "/steps-recorder/static/js/2.20a06d52.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.fe779d5f.js",
     "static/js/2.20a06d52.chunk.js",
     "static/css/main.df6fc5e0.chunk.css",
-    "static/js/main.39045eb4.chunk.js"
+    "static/js/main.afa684eb.chunk.js"
   ]
 }
